@@ -31,9 +31,6 @@
         },
         "YOUTUBE_KEY": {
             "required": false
-        },
-        "bilibili_cookies": {
-            "required": false
         }
     }
 }
